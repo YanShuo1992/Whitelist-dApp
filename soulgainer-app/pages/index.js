@@ -200,9 +200,9 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Crypto Devs!</h1>
+          <h1 className={styles.title}>Welcome to Crypto Devs from SA BigSmart!</h1>
           <div className={styles.description}>
-            Its an NFT collection for developers in Crypto.
+            Its an whilelist collection app for my followers from tiny red book.
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist

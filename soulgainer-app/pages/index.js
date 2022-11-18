@@ -202,7 +202,7 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Welcome to Crypto Devs from SA BigSmart!</h1>
           <div className={styles.description}>
-            Its an whilelist collection app for my followers from tiny red book.
+            Its a whilelist collection app for my followers from tiny red book.
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist
@@ -215,7 +215,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by Crypto Devs
+        Made with &#10084; by SA BigSmart
       </footer>
     </div>
   );
